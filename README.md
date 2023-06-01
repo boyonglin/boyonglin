@@ -17,8 +17,8 @@ A junior developer and freelance UI/UX designer from Taiwan.
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boyonglin&theme=tokyonight" height="180"></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boyonglin&theme=tokyonight" height="180"></a>
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boyonglin&theme=tokyonight" height="150"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boyonglin&theme=tokyonight" height="150"></a>
 </p>
 
 <!--
