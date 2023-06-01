@@ -16,8 +16,10 @@ A junior developer and freelance UI/UX designer from Taiwan.
   </a>&nbsp;&nbsp;
 </p>
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boyonglin&theme=tokyonight)](https://github.com/boyonglin)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=boyonglin&theme=tokyonight)](https://github.com/boyonglin)
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=boyonglin&theme=tokyonight"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boyonglin&theme=tokyonight"></a>
+</p>
 
 <!--
 **boyonglin/boyonglin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
