@@ -4,7 +4,7 @@
 </div>
 
 <p align='center'>
-A junior developer and freelance UI/UX designer from Taiwan.
+A software developer and freelance UI/UX designer from Taiwan.
 </p>
 
 <p align='center'>
